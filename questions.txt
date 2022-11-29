@@ -1,0 +1,11 @@
+Kompyuter ekraninda payda bolatugin suwretler qaysi apparat jardeminde jaratiladi?,videoprotsessor,Monitor,videokarta,Displey,videokarta
+Fotoshoptin daslepki versiyasi qaysi jilda jaratilgan?,1990,1991,1989,1992,1990
+Displey ekranindagi qatarlar ham ustinler kesilisken jay qanday ataladi?,Vector,Yacheyka,Piksel,Tuwri juwap joq,Piksel
+Tiykargi renler korsetilgen qatardi tabin.,Qizil jasil kok,Qizil sari kok,Kok sari jasil,Qizil sari jasil,Qizil jasil kok
+Photoshoptin uskeneler panelinde qansha uskene bar?,70 ten artiq,70,70 ten kem,65,70 ten artiq
+Vektorli grafikanin kemshiligi nede?,Ulken yad kerek,Sapasiz,Islew qiyin,Fotosuwretlerdi saqlawdin ilaji joq,Fotosuwretlerdi saqlawdin ilaji joq
+Eki olshemli kompyuter grafikasi neshe turge bolinedi?,2,3,4,5,3
+Suwretshilerdin boyawdi aralastiriw ushin isletetugin taxtashasi qanday ataladi?,Info,Sortigator,Palitra,Colors,Palitra
+Qaysi uskene jardeminde suwretlerdi shegarasinda fonnan keskin ajralip turgan obiektlerdi ajiratip aliwda paydalaniladi?,Grafik lasso,Magnitnoe lasso,Lasso,Pryamoliniynoe lasso,Magnitnoe lasso
+Suwret aliw noqatinan suwrettin korinisi ne dep ataladi?,Suwret,Korinis,Perspektiva,Bos noqat,Perspektiva
+MS Excel 2010 da fayllar qanday keneytpege iye?,lsx,xlsx,xls,txt,xlsx

@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+
+{% block title %}
+QUIZO | Results
+{% endblock %}
+
+{% block body %}
+<div
+    style="font-size: 50px; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif">
+    QUIZO
+</div>
+<hr>
+<div class="form-group mb-0" style="margin-top: 2.5rem; font-size: 2rem;">
+    Sheshilgen testler sanı(s): {{var2}} <br>
+    Ball: {{var1}} <br>
+</div>
+<div class="form-group mb-0" style="margin-top: 0.1rem; font-size: 1rem;">
+    <i>Hár bir soraw ushın 1 ball beriledi</i>
+</div>
+
+
+{% endblock %}
+
+{% block navbar%}
+<li class="nav-item">
+    <a href="/quiz" class="nav-link">
+        <!--<i class="nav-icon fas fa-tachometer-alt"></i> -->
+        <p>
+            Test islew
+        </p>
+    </a>
+</li>
+<li class="nav-item">
+    <a href="/show" class="nav-link">
+        <p>
+            Nátiyjelerdi kóriw
+        </p>
+    </a>
+</li>
+<li class="nav-item">
+    <a href="/logout" class="nav-link">
+        <p>
+            Shıǵıw
+        </p>
+    </a>
+</li>
+{% endblock %}
